@@ -1,0 +1,10 @@
+{
+  "title": "react-compressed-local-storage",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest"
+  }
+}
